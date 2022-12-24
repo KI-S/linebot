@@ -41,4 +41,4 @@ drive.mount('/content/drive', force_remount=True)
 
 ## fsm
 
-![image]https://github.com/KI-S/linebot/blob/main/fsm.png
+![image](https://github.com/KI-S/linebot/blob/main/fsm.png)
