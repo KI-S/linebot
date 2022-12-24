@@ -38,3 +38,7 @@ drive.mount('/content/drive', force_remount=True)
 ```python
 !pip install flask_ngrok
 ```
+
+## fsm
+
+![image]https://github.com/KI-S/linebot/edit/main/fsm.png
