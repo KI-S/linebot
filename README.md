@@ -42,3 +42,9 @@ drive.mount('/content/drive', force_remount=True)
 ## fsm
 
 ![image](https://github.com/KI-S/linebot/blob/main/fsm.png)
+
+## 使用說明
+  
+  help    : 查詢指令
+  reserve : 預約
+  cancel  : 取消預約
